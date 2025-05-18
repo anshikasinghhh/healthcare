@@ -53,4 +53,4 @@ This repository does not currently specify a license. Please confirm with the re
 
 Thank you for checking out the Healthcare Chatbot! We hope it proves helpful in addressing healthcare-related queries.
 
-Shaurya Verma
+Anshika Singh
