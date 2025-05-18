@@ -43,7 +43,7 @@ Shaurya Verma
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to reach out to [Shaurya Verma](https://github.com/shauryaverma03).
+If you have any questions or need further assistance, feel free to reach out to [Anshika Singh](https://github.com/anshikasinghhh/healthcare/pulls).
 
 ## License
 
