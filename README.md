@@ -17,7 +17,7 @@ To run this project locally, follow the steps below:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/shauryaverma03/healthcare-chatbot.git
+   git clone https://github.com/anshikasinghhh/healthcare
    cd healthcare-chatbot
    ```
 
