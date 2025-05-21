@@ -34,7 +34,7 @@ To run this project locally, follow the steps below:
 
 Contributions are welcome! If you'd like to add new features or report bugs, feel free to create an issue or submit a pull request.
 
-Shaurya Verma
+Anshika Singh
 
 ### Steps to contribute:
 1. Fork the repository.
